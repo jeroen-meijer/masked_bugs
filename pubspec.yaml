@@ -1,5 +1,6 @@
 name: masked_bugs
-description: A new Flutter project.
+description: A small example project showcasing bugs related to the
+  mask_text_input_formatter package.
 version: 1.0.0+1
 publish_to: none
 
